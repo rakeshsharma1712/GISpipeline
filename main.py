@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print_hi('starting GIS data extraction')
     print("testing GIT push")
+    print("this is pushed from new cloned project")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
